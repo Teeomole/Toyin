@@ -162,4 +162,3 @@ def greater_than_three(numbers):
 
 filtered = greater_than_three(numbers)
 print(filtered) # output is same 
-
